@@ -1,0 +1,1 @@
+GROUPE MSA V8 - Footer corectat. Created by + logo NoviFlexTech centrat in footer pe toate paginile. Fara text bilingv, fara credit in dreapta, fara bloc suplimentar jos. Link: https://noviflextech.eu
